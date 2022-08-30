@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5922a06-a38f-41b6-91df-b3ec33ce1a41" name="Changes" comment="returning generated key">
-      <change afterPath="$PROJECT_DIR$/src/examples/example3/Program.java" afterDir="false" />
+    <list default="true" id="f5922a06-a38f-41b6-91df-b3ec33ce1a41" name="Changes" comment="update operation">
+      <change afterPath="$PROJECT_DIR$/src/db/DbIntegrityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/example4/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661872404158</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update operation">
+      <created>1661873014215</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661873014215</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +162,7 @@
     <MESSAGE value="refactored packages" />
     <MESSAGE value="inserting with preparedStatement" />
     <MESSAGE value="returning generated key" />
-    <option name="LAST_COMMIT_MESSAGE" value="returning generated key" />
+    <MESSAGE value="update operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="update operation" />
   </component>
 </project>
