@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5922a06-a38f-41b6-91df-b3ec33ce1a41" name="Changes" comment="getting data from db using statement and resultSet" />
+    <list default="true" id="f5922a06-a38f-41b6-91df-b3ec33ce1a41" name="Changes" comment="refactored packages">
+      <change afterPath="$PROJECT_DIR$/src/examples/example2/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,13 +43,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="application.Program" />
+      <option name="MAIN_CLASS_NAME" value="examples.example2.Program" />
       <module name="jdbc-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="application.*" />
+          <option name="PATTERN" value="examples.example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="examples.example1.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.example1.application.Program" />
+      <module name="jdbc-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.example1.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,6 +73,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Program" />
+        <item itemvalue="Application.examples.example1.application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -76,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661869334643</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="getting data from db using statement and resultSet">
+      <created>1661869998633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661869998633</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactored packages">
+      <created>1661870647194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661870647194</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="db setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="db setup" />
+    <MESSAGE value="getting data from db using statement and resultSet" />
+    <MESSAGE value="refactored packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored packages" />
   </component>
 </project>
