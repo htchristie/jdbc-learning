@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5922a06-a38f-41b6-91df-b3ec33ce1a41" name="Changes" comment="delete operation">
-      <change afterPath="$PROJECT_DIR$/src/examples/example5/Program.java" afterDir="false" />
+    <list default="true" id="f5922a06-a38f-41b6-91df-b3ec33ce1a41" name="Changes" comment="transaction, commit and rollback">
+      <change afterPath="$PROJECT_DIR$/src/examples/example6/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661873380311</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="transaction, commit and rollback">
+      <created>1661874376518</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661874376518</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +193,7 @@
     <MESSAGE value="returning generated key" />
     <MESSAGE value="update operation" />
     <MESSAGE value="delete operation" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete operation" />
+    <MESSAGE value="transaction, commit and rollback" />
+    <option name="LAST_COMMIT_MESSAGE" value="transaction, commit and rollback" />
   </component>
 </project>
