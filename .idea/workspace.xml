@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5922a06-a38f-41b6-91df-b3ec33ce1a41" name="Changes" comment="update operation">
-      <change afterPath="$PROJECT_DIR$/src/db/DbIntegrityException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/example4/Program.java" afterDir="false" />
+    <list default="true" id="f5922a06-a38f-41b6-91df-b3ec33ce1a41" name="Changes" comment="delete operation">
+      <change afterPath="$PROJECT_DIR$/src/examples/example5/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.examples.example3.Program">
+  <component name="RunManager" selected="Application.examples.example5.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="examples.example2.Program" />
       <module name="jdbc-learning" />
@@ -83,8 +83,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="examples.example5.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.example5.Program" />
+      <module name="jdbc-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.example5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.examples.example5.Program" />
         <item itemvalue="Application.examples.example3.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.examples.example1.application.Program" />
@@ -142,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661873014215</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="delete operation">
+      <created>1661873380311</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661873380311</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +184,7 @@
     <MESSAGE value="inserting with preparedStatement" />
     <MESSAGE value="returning generated key" />
     <MESSAGE value="update operation" />
-    <option name="LAST_COMMIT_MESSAGE" value="update operation" />
+    <MESSAGE value="delete operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete operation" />
   </component>
 </project>
