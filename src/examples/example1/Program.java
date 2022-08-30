@@ -1,4 +1,4 @@
-package application;
+package examples.example1;
 
 import db.DB;
 
